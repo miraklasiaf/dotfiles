@@ -1,0 +1,12 @@
+[user]
+	name = Faisal Karim
+	email = miraklasiaf@gmail.com
+	signingkey = C:\\Users\\User\\.ssh\\id_rsa.pub
+[init]
+	defaultBranch = main
+[alias]
+	cs = commit -s
+[gpg]
+	format = ssh
+[gpg "ssh"]
+	allowedSignersFile = ~/.ssh/allowed_signers
